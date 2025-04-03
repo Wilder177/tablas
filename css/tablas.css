@@ -1,0 +1,33 @@
+*{
+    padding: 40px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table,td,th{
+    border: 20px solid #000000;
+  }
+  td, th {
+    
+    text-align: center;
+    padding: 8px;
+    font-size: 100px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d0d0d0;
+  }
+  img{
+    height: 300px;
+    width: auto;
+  }
+  th{
+    background-color: rgb(238, 59, 59);
+    font-size: 100px;
+  }
+  caption{
+    font-size: 150px;
+    text-transform: uppercase;
+  }
